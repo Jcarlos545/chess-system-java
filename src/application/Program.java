@@ -9,6 +9,8 @@ public class Program {
 		Position position = new Position(2, 6);
 		
 		System.out.println(position);
+		
+		/**/
 	}
 
 }
